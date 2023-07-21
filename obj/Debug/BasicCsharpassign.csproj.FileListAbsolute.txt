@@ -1,0 +1,8 @@
+C:\dialytask\Day_11\BasicCsharpassign\obj\Debug\BasicCsharpassign.csproj.AssemblyReference.cache
+C:\dialytask\Day_11\BasicCsharpassign\obj\Debug\BasicCsharpassign.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Day_11\BasicCsharpassign\obj\Debug\BasicCsharpassign.csproj.CoreCompileInputs.cache
+C:\dialytask\Day_11\BasicCsharpassign\bin\Debug\BasicCsharpassign.exe.config
+C:\dialytask\Day_11\BasicCsharpassign\bin\Debug\BasicCsharpassign.exe
+C:\dialytask\Day_11\BasicCsharpassign\bin\Debug\BasicCsharpassign.pdb
+C:\dialytask\Day_11\BasicCsharpassign\obj\Debug\BasicCsharpassign.exe
+C:\dialytask\Day_11\BasicCsharpassign\obj\Debug\BasicCsharpassign.pdb
